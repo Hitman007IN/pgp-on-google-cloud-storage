@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "feisty-reef-282205",
+  "private_key_id": "3f6ace31a626a98e1c53aea72e08c0f8dee027ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFGCO0UvqkgV1X\n02D6vaEtznFcA4gVylvtidRJuZrn3jLCwZWJpShwVomntWEyDiKAPKPVC3LK2KTF\nxre1iDuLSVxM2BvdrIdXj0qS5ATbIzA1F9pu+7aqSWHPIBvwR7zN1XblUI4msyxz\nIFIimx03+qyDmeH/AM9+XqAuagKI4c1W6AlP6kzxzcwW0Jo30VaFy+tIznu/uOJK\ny5FfSiPsrLx3LNQDu6XPE/lg/wnKTqSD7zjCwNbLlZpeESZiMZvWFqknI4JJiz97\nNwp7/d2gnRt6HmfCUvvqZHyiBlFMsqEjFXVjN9/Hif2uizElvSA3saGH3qW6nLzo\n2hszQ/u9AgMBAAECggEAUH8z8e2kFbUKORkJdk8lua4jyVdd6LxtwD33OKc4F7Q+\nGiHzX7TXJ86ISTlAua9hMuvRY+1ZlHRYE7i+BkPeQdyT+ISZGPfijQXmiMjdHN0p\nzr1vxr1ClRkEfBJaps+90nl5Jl44uKCcKmcMdLrSe68Db3pVfY9Ir42ZMWu1nk6W\nIz9UeKT2+SZuaXDPSo5QvIWCN908134yXGl14rLBGa+Sk0VUQtOfU6IvgRAAkNfP\ndmG0DC3x88wOWrnx5EoE8pII9QdghLG8oRiFHb5sHRGoE10/qq9IzDEWWO3NetJy\nw7gWDyVVe94r05USFiStKB1xORqCgEvAUwLGnKnedwKBgQD7mJzntyrUAi+atujM\n6LRZV7+6SMM6jFYBqAO1h80l8xqQcszYa4R6stQeRaIYaDUdJehRmA64Hitp2BpK\nPbPnS3sdXeU9AG4amfWDwpVo0x1LTapWhaSV3vOhSAETE5LxTPfKXAgmxIssebOf\ng27Tt84winKPx7jG39uQKNpHdwKBgQDIi06cSorJc3nB6ixD2o2qr3t38GNG2xHy\nWQOG5ByVCEdwio+9xSikydIAD4DenDQRBdzV549bhcG9HT9zdwkhOmNZ8kyUBuTJ\n6pz0AcobqOT/Bg4JRUyOnIfgor2KihhNbv8FkLc8jQiuSjbYhFkpL47N+PtxQ8lr\nVmQ/YjoLawKBgEPsXqfb9m8ILAvrx4vSYyYfn35OOI6s5mdKEb5HbGYLbKeEprLi\nzABIGSYXDHzkXTqCSmcE0yx30Kahle9nGxOdeB5khAfk/tSlrfelZ6rGHAmBbTQw\nnk9rwoBPLSMWTLxiWB9Em1rEAwK91HWDCT+VRtAqAGW6uLLQKrmPneZfAoGBAI7x\nRMoAE+a9aWb/vCdtS5cC17XI4Wpq0eL08Z+fToQnz4v3J7ezJWI3/HhQlKGXo0ES\n9bJ+B9/LeimLBGQPz7Eghhphq5XDSCZoFRGTiPSoMPlZ3n1bKNNp3SwPs5xhDCt9\nV0cnPIRrXmmkum0gANFrdZV4x/iWwaXBgVjwccEbAoGACWusuIcC5HYV4RxwahGg\nsXYYjWZKAVJ3Tc+TGu1+FRcZuXrfy9NYzpUwCoJweJABvVmKqi9m09mlP31usyh9\naWWMwGbDkoKt8iDX/gwqAiychaM2onfHOWp1cwX4qbg+MRxNX0a1PcKGKXFqB2LY\n3QLpV9PSBQeKO1x9eL4gNDc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gke-gcs-sa@feisty-reef-282205.iam.gserviceaccount.com",
+  "client_id": "113600623431253585948",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gke-gcs-sa%40feisty-reef-282205.iam.gserviceaccount.com"
+}
